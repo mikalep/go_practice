@@ -24,7 +24,7 @@ type Salaries struct {
 
 func handleSearchTerms(p Personnel) {
 
-	fmt.Println("Would you like to search with n(ames) or with a s(alary)?")
+	fmt.Println("Would you like to search with n(ame) or with a s(alary)?")
 
 	var choice string
 
