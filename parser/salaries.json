@@ -1,0 +1,49 @@
+{
+    "salaries": [
+        {
+            "name": "Bob",
+            "salary": 3000
+        },
+        {
+            "name": "Alice",
+            "salary": 3200
+        },
+        {
+            "name": "Mark",
+            "salary": 5100
+        },
+        {
+            "name": "Sarah",
+            "salary": 2000
+        },
+        {
+            "name": "Peter",
+            "salary": 4350
+        },
+        {
+            "name": "Diego",
+            "salary": 2700
+        },
+        {
+            "name": "Felicia",
+            "salary": 5000
+        },
+        {
+            "name": "Jessica",
+            "salary": 3000
+        },
+        {
+            "name": "Andrew",
+            "salary": 4000
+        },
+        {
+            "name": "Rob",
+            "salary": 2400
+        },
+        {
+            "name": "Vivian",
+            "salary": 4350
+        }
+
+    ]
+}
